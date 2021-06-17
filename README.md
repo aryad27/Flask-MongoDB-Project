@@ -1,5 +1,5 @@
 # Flask-MongoDB-Project
-My first full stack project
+My first full stack project.
 
 To run the project.
 create and activate virtual enviornment 
